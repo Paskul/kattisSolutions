@@ -1,2 +1,2 @@
 # Pascal Kattis Solutions!!!
-anything in java I wrote when I was 18
+Everything in Java is old code!
