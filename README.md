@@ -1,1 +1,1 @@
-# Really Good Kattis Solutions!!!
+# Pascal Kattis Solutions!!!
